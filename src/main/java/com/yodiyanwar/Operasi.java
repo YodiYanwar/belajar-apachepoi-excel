@@ -31,8 +31,8 @@ public class Operasi {
         Map<String, Object[]> data = new HashMap<String, Object[]>();
         data.put("1", new Object[] {"NPM", "Nama", "Usia"});
         data.put("2", new Object[] {1221d, "Yodi", 19d});
-        data.put("3", new Object[] {1222d, "nabilah", 15d});
-        data.put("4", new Object[] {1223d, "Melody", 22d});
+        data.put("3", new Object[] {1222d, "Sugih", 15d});
+        data.put("4", new Object[] {1223d, "Aldi", 22d});
 
         Set<String> keyset = data.keySet();
         int rownum = 0;
